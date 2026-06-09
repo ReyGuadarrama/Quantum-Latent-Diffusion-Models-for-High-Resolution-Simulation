@@ -1,4 +1,4 @@
-En esta carpeta se presentan los primero programas e intentos de generación del VAE. Primero se generó un Auto-Encoder, luego se generó el VAE y se probó en tres diferentes datasets:
+This repository/folder presents the preliminary code and implementation attempts for the VAE. An Autoencoder was developed first, followed by the VAE architecture, which was evaluated across three distinct datasets: 
 - MNIST
-- CATS VS DOGS
-- JET DATASET
+- Cats vs. Dogs
+- Jet Dataset
