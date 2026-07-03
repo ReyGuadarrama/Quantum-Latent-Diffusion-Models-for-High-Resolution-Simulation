@@ -14,3 +14,6 @@ For this new program, we tested different latent spaces:
 - 256
 
 The best results were obtained with latent spaces of 32 or 64.
+
+Here, the results for a latent space of 64 are shown. As can be seen, the model is able to predict the position of the most active pixels, as well as a somewhat blurry distribution. However, the reconstruction process still generates images that are quite incomplete and blurry, so work on this part is still ongoing.
+
