@@ -3,3 +3,14 @@ For this implementation, we adapted the base architecture from the Cats vs. Dogs
 - Wasserstein-1 Distance
 - RDF (Radial Distribution Function)
 - SSIM (Structural Similarity Index Measure)
+
+For this new program, we tested different latent spaces:
+
+- 8
+- 16
+- 32
+- 64
+- 128
+- 256
+
+The best results were obtained with latent spaces of 32 or 64.
