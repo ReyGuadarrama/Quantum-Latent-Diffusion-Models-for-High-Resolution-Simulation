@@ -8,12 +8,12 @@ This project investigates classical and hybrid quantum–classical generative mo
 
 ## Repository Structure
 
-| Directory              | Contents                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------ |
-| `Classical/DIFFUSION/` | DDPM, DDIM, and Flow Matching experiments.                                           |
-| `Classical/VAE/`       | VAE experiments on introductory datasets and jet images.                             |
-| `Classical/LDM/`       | Classical latent diffusion models and a simplified baseline for quantum experiments. |
-| `Quantum/`             | Quantum bottleneck, patchwise denoising, and hybrid spatial-mixing experiments.      |
+| Directory              | Contents                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| `Classical/DIFFUSION/` | DDPM, DDIM, and Flow Matching experiments.                                                       |
+| `Classical/VAE/`       | VAE experiments on introductory datasets and jet images.                                         |
+| `Classical/LDM/`       | Classical latent diffusion models and a simplified baseline for quantum experiments.             |
+| `Quantum/`             | Quantum bottleneck, patchwise denoising, hybrid spatial-mixing experiments and Final Experiment. |
 
 ## Current Status
 
