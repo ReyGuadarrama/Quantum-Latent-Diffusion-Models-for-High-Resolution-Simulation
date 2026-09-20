@@ -21,6 +21,15 @@ The experiments demonstrate that quantum circuits can participate in latent deno
 
 Some later experiments described in the report are not yet included in this repository.
 
+## Dataset
+
+The jet-image experiments use quark and gluon data with three detector channels: **Tracker, ECAL, and HCAL**. The original **125 × 125** images are cropped to **64 × 64**, with preprocessing documented in the corresponding notebooks.
+
+**[Access the dataset on Google Drive](https://drive.google.com/file/d/1WO2K-SfU2dntGU4Bb3IYBp9Rh7rtTYEr/view?usp=sharing)**
+
+Dataset files are not included in this repository. Download the data and update the local dataset paths in the notebooks before running the experiments.
+
+
 ## Running the Experiments
 
 Implementations are provided as Jupyter notebooks. Configure the required dependencies and dataset paths before running them. Dataset files are not included in this repository.
