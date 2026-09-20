@@ -1,5 +1,7 @@
 This notebook contains the closing experiment of the **Google Summer of Code 2026** project 
 
+As with the previous implementations, this notebook is built on top of the classical baseline defined in the preceding sections.
+
 It includes three stages:
 
 * **Q10 — Reduced-Resolution Quantum Denoiser:** three eight-qubit cores process content, conditioning, and feature fusion on an `8×8` grid.
